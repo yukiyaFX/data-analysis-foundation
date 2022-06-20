@@ -677,6 +677,15 @@ Error executing Jupyter command 'lab': [Errno 2] No such file or directory
 
 
 プロキシサーバーとは使用すると、ブラウザで直接Webサイトにアクセスせずに、プロキシサーバーにアクセス、プロキシサーバーが代わりに目的のサイトにアクセスしてデータを受け取り、ブラウザにデータを渡して表示させます。
+  
+  
+  現在の進捗
+  
+<img width="1277" alt="スクリーンショット 2022-06-20 16 55 41" src="https://user-images.githubusercontent.com/57390063/174552967-e33ac254-b88a-4e7c-8ef5-368f2c1206e0.png">
+  
+  
+  <img width="1277" alt="スクリーンショット 2022-06-20 16 54 50" src="https://user-images.githubusercontent.com/57390063/174553011-6dadff49-3b83-4c71-8e78-edfb5f14137f.png">
+
 
 
 
